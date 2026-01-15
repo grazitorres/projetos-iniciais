@@ -8,7 +8,7 @@ A ideia é manter um registro da minha **evolução na área de tecnologia**, de
 
 ## ✨ Sobre os projetos
 
-Cada pasta representa um projeto simples, desenvolvido para praticar conceitos básicos de HTML e CSS. Alguns deles também têm versões atualizadas, onde melhorei o código e a organização visual.
+Cada pasta representa um projeto simples, desenvolvido para praticar conceitos básicos de HTML e CSS. 
 
 ### 📄 Lista de projetos
 
@@ -26,9 +26,6 @@ Cada pasta representa um projeto simples, desenvolvido para praticar conceitos b
 
 - **Índice de Conhecimentos (HTML)**  
   Página com links internos (âncoras) para seções do conteúdo sobre meus aprendizados.
-
-- **Versões Atualizadas (em andamento)**  
-  Novas versões dos projetos com melhorias em estrutura, semântica e estilos com CSS.
 
 ---
 
